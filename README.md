@@ -1,1 +1,3 @@
 # Presentation
+
+EXAMPLE OF GITHUB's BASIC USES.
